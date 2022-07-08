@@ -9,8 +9,10 @@ try:
     print("el numero {} y al dividirlo da {}".format(num,num/num))
 except:
     print("intente de nuevo")
+#Se activa si no se ejecuta ninguna excepcion
 else:
     print("la ejecucion fue exitosa")
+#Se ejecuta sin importar si se ejecuta alguna excepcion
 finally:
     print("Se realizo un proceso bien o mal, no importa")
 
