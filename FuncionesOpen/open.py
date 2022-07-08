@@ -1,5 +1,5 @@
 #Ejemplos de funciones open
-
+#El uso de with es para la optimizacion de abrir y cerrar el archivo con el cual vamos a trabajar, el se encarga de hacer esas junciones automaticamente
 #f es la asignacion de ese fichero para su debida lectura o creacion
 
 #el argumento dos 'w' sobreescribe el texto del documento
